@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel 👋
+## Hi there, I'm Daniel 👋
 
 A dedicated Software Engineer with a fervent interest in cybersecurity and a strong commitment to Free and Open Source Software (FOSS), I bring a proven track record in designing and implementing robust, secure, and innovative solutions.
 
@@ -7,6 +7,8 @@ Proficient in various programming languages and development methodologies, I act
 My passion for FOSS extends into contributing to community-driven projects,fostering collaboration and promoting accessible, transparent software solutions.
 
 With a focus on marrying cutting-edge technology with a security-first approach, I aim to drive impactful and secure software solutions for the future, and learning new technologies and tools if the need arises.
+
+---
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Barraguesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
