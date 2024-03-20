@@ -52,5 +52,8 @@ With a focus on marrying cutting-edge technology with a security-first approach,
     <img/>
     <img/>
     <img/>
+    <img/>
+    <img/>
+    <img/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Barraguesh&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=8&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
